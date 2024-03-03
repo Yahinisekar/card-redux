@@ -5,7 +5,7 @@ export const ProductContext = React.createContext(null);
 function Product({ children }) {
     //useState to update the state value
      const [data, setData] = useState({
-       "products": [
+       products: [
          {
            id: 1,
            title: "iPhone 9",
@@ -16,7 +16,8 @@ function Product({ children }) {
            stock: 94,
            brand: "Apple",
            category: "smartphones",
-           thumbnail: "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+           thumbnail:
+             'https://i5.walmartimages.com/asr/d38e7b28-fef6-4ceb-958f-e173f3fff5d9_1.732168e7f156869227531a1d8501efd0.jpeg',
            images: [
              "https://i.dummyjson.com/data/products/1/1.jpg",
              "https://i.dummyjson.com/data/products/1/2.jpg",
