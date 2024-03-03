@@ -17,7 +17,7 @@ function Product({ children }) {
            brand: "Apple",
            category: "smartphones",
            thumbnail:
-             'https://i5.walmartimages.com/asr/d38e7b28-fef6-4ceb-958f-e173f3fff5d9_1.732168e7f156869227531a1d8501efd0.jpeg',
+             "https://i5.walmartimages.com/asr/d38e7b28-fef6-4ceb-958f-e173f3fff5d9_1.732168e7f156869227531a1d8501efd0.jpeg",
            images: [
              "https://i.dummyjson.com/data/products/1/1.jpg",
              "https://i.dummyjson.com/data/products/1/2.jpg",
@@ -37,7 +37,8 @@ function Product({ children }) {
            stock: 34,
            brand: "Apple",
            category: "smartphones",
-           thumbnail: "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+           thumbnail:
+             "https://4.bp.blogspot.com/-wVqHwbeXjWI/To3x4IX_ugI/AAAAAAAAAPc/ckf0aQ10b6A/s4000/iphone-6.jpg",
            images: [
              "https://i.dummyjson.com/data/products/2/1.jpg",
              "https://i.dummyjson.com/data/products/2/2.jpg",
@@ -56,7 +57,7 @@ function Product({ children }) {
            stock: 36,
            brand: "Samsung",
            category: "smartphones",
-           thumbnail: "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+           thumbnail: "https://static.toiimg.com/photo/65350516.cms",
            images: ["https://i.dummyjson.com/data/products/3/1.jpg"],
          },
          {
@@ -69,7 +70,8 @@ function Product({ children }) {
            stock: 123,
            brand: "OPPO",
            category: "smartphones",
-           thumbnail: "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+           thumbnail:
+             "https://daoinsights.com/wp-content/uploads/2020/12/oppo-reno-flip-5g-smartphone-1024x676.jpg",
            images: [
              "https://i.dummyjson.com/data/products/4/1.jpg",
              "https://i.dummyjson.com/data/products/4/2.jpg",
@@ -89,7 +91,8 @@ function Product({ children }) {
            stock: 32,
            brand: "Huawei",
            category: "smartphones",
-           thumbnail: "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+           thumbnail:
+             "https://media.metrolatam.com/2020/03/04/template8-0c0c5102464056bea82efb794d5ca106-1200x800.jpg",
            images: [
              "https://i.dummyjson.com/data/products/5/1.jpg",
              "https://i.dummyjson.com/data/products/5/2.jpg",
